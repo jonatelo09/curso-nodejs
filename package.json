@@ -1,0 +1,18 @@
+{
+    "name": "curso-nodejs",
+    "version": "0.0.1",
+    "description": "Introduccion a Nodejs",
+    "main": "src/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jonatan Arevalo",
+    "license": "MIT",
+    "dependencies": {
+        "countries-list": "^2.5.4"
+    }
+}
